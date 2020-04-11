@@ -3,7 +3,6 @@ aliases = ["Books", "Book List", "Reading List"]
 author = "Sourav Sen"
 date = 2019-02-28T00:00:00Z
 description = "Here's a list of books I have read in the last 12 months. "
-draft = true
 feature_image = ""
 title = "My Reading List"
 
